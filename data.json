@@ -39,18 +39,18 @@
         "duration": 182,
         "timeSync": [
           { "time": 0, "text": "Intro music..." },
-            { "time": 5, "text": "First verse line 1\nBaris terjemahan" },
-            { "time": 10, "text": "First verse line 2\nBaris terjemahan" },
-            { "time": 15, "text": "First verse line 3\nBaris terjemahan" },
-            { "time": 20, "text": "First verse line 4\nBaris terjemahan" },
-            { "time": 25, "text": "Pre-chorus line 1\nBaris terjemahan" },
-            { "time": 30, "text": "Pre-chorus line 2\nBaris terjemahan" },
-            { "time": 35, "text": "Chorus line 1\nBaris terjemahan" },
-            { "time": 40, "text": "Chorus line 2\nBaris terjemahan" },
-            { "time": 45, "text": "Chorus line 3\nBaris terjemahan" },
-            { "time": 50, "text": "Chorus line 4\nBaris terjemahan" },
-            { "time": 55, "text": "Post-chorus\nBaris terjemahan" },
-            { "time": 60, "text": "Second verse line 1\nBaris terjemahan" }
+            { "time": 1.98, "text": "First verse line 1\nBaris terjemahan" },
+            { "time": 2.91, "text": "First verse line 2\nBaris terjemahan" },
+            { "time": 3.01, "text": "First verse line 3\nBaris terjemahan" },
+            { "time": 3.45, "text": "First verse line 4\nBaris terjemahan" },
+            { "time": 4.23, "text": "Pre-chorus line 1\nBaris terjemahan" },
+            { "time": 5.15, "text": "Pre-chorus line 2\nBaris terjemahan" },
+            { "time": 6.12, "text": "Chorus line 1\nBaris terjemahan" },
+            { "time": 7.06, "text": "Chorus line 2\nBaris terjemahan" },
+            { "time": 7.92, "text": "Chorus line 3\nBaris terjemahan" },
+            { "time": 8.50, "text": "Chorus line 4\nBaris terjemahan" },
+            { "time": 9.67, "text": "Post-chorus\nBaris terjemahan" },
+            { "time": 10.72, "text": "Second verse line 1\nBaris terjemahan" }
         ]
     }
 }
