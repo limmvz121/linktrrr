@@ -1,0 +1,56 @@
+{
+    "profile": {
+        "name": "LimmvzX Sakazu",
+        "bio": "hi i'm Limmvz.",
+        "image": "https://files.catbox.moe/j4agfn.jpeg"
+    },
+    "links": [
+        {
+            "title": "Whatsapp",
+            "url": "https://wa.me/message/CZAVAYTX7ISFB1",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Website",
+            "url": "https://limmvz-product.vercel.app",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/@limmvz",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Whatsapp Channel",
+            "url": "https://whatsapp.com/channel/0029VawTuv09Gv7VHSUvYi37",
+            "icon": "fab fa-whatsapp"
+        }
+    ],
+    "music": {
+        "title": "Avangard",
+        "artist": "Lonown",
+        "albumArt": "https://files.catbox.moe/j4agfn.jpeg",
+        "audioFile": "https://files.catbox.moe/bzca5n.mp3",
+        "duration": 182,
+        "timeSync": [
+          { "time": 0, "text": "Hi All" },
+            { "time": 1.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 10.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 20.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 30.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 40.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 50.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 60.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 70.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 80.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 90.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 100.00, "text": "Powered By\nLimmvzX Sakazu" },
+            { "time": 110.72, "text": "Powered By\nLimmvzX Sakazu" }
+        ]
+    }
+}
